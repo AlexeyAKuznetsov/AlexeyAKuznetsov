@@ -9,8 +9,9 @@ I'm a dynamic and detail-oriented software engineer with a knack for conceptuali
 ## Connect with me 🌐
 
 If you want to get in touch or discuss any opportunities, feel free to reach me at:
-- Email: [alexeyakuznetsovjr@gmail.com]
-- LinkedIn: [linkedin.com/in/alexeykuznetsovjr]
+- Email: [alexeyakuznetsovjr@gmail.com](mailto:alexeyakuznetsovjr@gmail.com)
+- LinkedIn: [linkedin.com/in/alexeykuznetsovjr](https://www.linkedin.com/in/alexeykuznetsovjr/)
+
 
 ## Languages and Tools 🛠️
 
