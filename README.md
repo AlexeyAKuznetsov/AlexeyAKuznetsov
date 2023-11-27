@@ -22,12 +22,3 @@ If you want to get in touch or discuss any opportunities, feel free to reach me 
 * AWS
 * Git
 * Bash/Shell scripting
-
-## My Week 📊
-
-Here's a breakdown of what I typically spend my time on in any given week:
-
-```text
-Research:      ███████████░░░░  60%
-Development:   ██████░░░░░░░░  30%
-Other:         ████░░░░░░░░░░  10%
